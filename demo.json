@@ -1,0 +1,14 @@
+[ 
+	{
+	  "type" : "lion",
+	  "name" : "Nala",
+	  "endangered" : true,
+	  "action" : null
+	}, 
+	{
+	  "type" : "elephant",
+	  "name" : "Lucy",
+	  "endangered" : false,
+	  "table" : null
+	} 
+]
